@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Exercise 4 — Linear Search best/avg/worst demonstration.
 We count comparisons in three situations and also do a simple timing profile.

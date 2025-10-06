@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Exercise 3 — O(n^2)
 Implements the double loop with j += 4 and profiles runtime.

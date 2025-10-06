@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Exercise 1 — O(n^2 log n)
 Implements the triple-nested loops and profiles runtime for various n.

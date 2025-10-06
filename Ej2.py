@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Exercise 2 — O(n)
 Implements the nested loop with a break in the inner loop and profiles runtime.
